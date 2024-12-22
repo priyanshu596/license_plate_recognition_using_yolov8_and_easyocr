@@ -1,0 +1,1 @@
+# license_plate_recognition_using_yolov8_and_easyocr
