@@ -1,8 +1,8 @@
 # license_plate_recognition_using_yolov8_and_easyocr
 ![Screenshot 2024-12-22 211149](https://github.com/user-attachments/assets/fc4adf71-289a-4f2f-96f3-21f2cebc0784)
 
-##google doc for the project overview
-![link-](https://drive.google.com/file/d/1i0qCDdtO4tOhHNmj0HC8J-lL7rPlVAmT/view?usp=sharing)
+## google doc for the project overview
+![CLICK HERE](https://drive.google.com/file/d/1i0qCDdtO4tOhHNmj0HC8J-lL7rPlVAmT/view?usp=sharing)
 ## Workflow
 
 ### 1. Object Detection
